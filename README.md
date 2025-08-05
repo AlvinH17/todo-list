@@ -13,10 +13,12 @@ This app allows users to add, complete, and delete tasks — all within the brow
 
 ## 📁 Project Structure
 
+```
 todo-list/
-├── index.html # Webpage structure
-├── script.js # JavaScript functionality
-└── style.css # App styling
+├── index.html   - Webpage structure
+├── script.js    - JavaScript functionality
+└── style.css    - App styling
+```
 
 ---
 
